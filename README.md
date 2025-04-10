@@ -29,7 +29,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ErikProgrammer/ErikProgrammer/output/snake.svg" alt="Snake animation" />
-
-###
