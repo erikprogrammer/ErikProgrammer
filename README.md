@@ -1,4 +1,3 @@
-
 <h1 align="left">Olá</h1>
 
 ###
@@ -28,5 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ErikProgrammer/ErikProgrammer/output/snake.svg" alt="Snake animation" />
 
 ###
